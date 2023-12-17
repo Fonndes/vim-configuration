@@ -1,1 +1,2 @@
-# vim-configuration
+# just a vim-configuration
+
